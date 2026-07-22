@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: green;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  color: purple;
+  text-align: center;
+}
+
+p {
+  color: pink;
+  font-size: 18px;
+}
+
+button {
+  background-color: blue;
+  color: red;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: yellow;
+}
